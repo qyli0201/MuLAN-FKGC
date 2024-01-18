@@ -7,12 +7,12 @@ Qianyu Li, Bozheng Feng, Xiaoli Tang, Han Yu and Hengjie Song. MuLAN: Multi-Leve
 ![image](https://github.com/qyli0201/MuLAN-FKGC/blob/main/model.png)  
 
 
-## Datasets
+## Dataset
 - [NELL-One](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/.
 
 - [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/.
 
-## Pre-trained embeddings
+## Pre-trained embedding
 - [NELL-One](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/NELL/embed/.
 
 - [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/Wiki/embed/.
