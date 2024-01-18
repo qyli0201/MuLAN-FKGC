@@ -8,14 +8,14 @@ Qianyu Li, Bozheng Feng, Xiaoli Tang, Han Yu and Hengjie Song. MuLAN: Multi-Leve
 
 
 ## Dataset
-- [NELL-One](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/.
+- [NELL-One](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./data/.
 
-- [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/.
+- [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./data/.
 
 ## Pre-trained embedding
-- [NELL-One dataset](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/NELL/embed/.
+- [NELL-One dataset](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./data/NELL/embed/.
 
-- [Wiki-One dataset](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/Wiki/embed/.
+- [Wiki-One dataset](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./data/Wiki/embed/.
 
 ## Run the code
 - NELL-One dataset：
