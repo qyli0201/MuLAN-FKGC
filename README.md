@@ -18,7 +18,7 @@ Qianyu Li, Bozheng Feng, Xiaoli Tang, Han Yu and Hengjie Song. MuLAN: Multi-Leve
 - [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./MuLAN-FKGC/data/Wiki/embed/.
 
 ## Run the code
-` `` 
-./run_nell.sh
+``` 
+./run_nell.sh  
 ./run_wiki.sh
-` ``
+```
