@@ -8,9 +8,9 @@ Qianyu Li, Bozheng Feng, Xiaoli Tang, Han Yu and Hengjie Song. MuLAN: Multi-Leve
 
 
 ## Dataset
-- [NELL-One](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./data/.
+- [NELL-One](https://drive.google.com/file/d/1b7kVBKljayuwu2Jql6a6vggT_To-9DbZ/view): Unzip it to the directory ./data/.
 
-- [Wiki-One](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing): Unzip it to the directory ./data/.
+- [Wiki-One](https://drive.google.com/file/d/11HbUOv_LjZIK9dQjNiWirLCOjuBgd9gi/view): Unzip it to the directory ./data/.
 
 ## Pre-trained embedding
 - [NELL-One dataset](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing): Unzip it to the directory ./data/NELL/embed/.
